@@ -1,0 +1,15 @@
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\Application.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\entity\Location.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\entity\Pest.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\entity\PestOccurence.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\entity\Product.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\entity\ProductThreshold.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\entity\RecommendedProduct.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\entity\Region.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\exception\BusinessException.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\repository\PestOccurenceRepository.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\model\repository\ProductRepository.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\service\operation\ProductRecommendationFindOperation.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\service\ProductRecommendationService.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\service\strategy\ProductRecommendationStrategy.java
+C:\Users\jaguedes\Documents\GitHub\joelma-guedes-internship-spray-challenge\src\main\java\br\com\mip\monitoramento\api\v1\service\strategy\ProductRecommendationStrategyImpl.java

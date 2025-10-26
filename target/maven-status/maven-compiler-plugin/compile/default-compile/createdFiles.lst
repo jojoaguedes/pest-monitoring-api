@@ -1,0 +1,17 @@
+br\com\mip\monitoramento\api\v1\service\strategy\ProductRecommendationStrategyImpl.class
+br\com\mip\monitoramento\api\Application.class
+br\com\mip\monitoramento\api\v1\service\ProductRecommendationService.class
+br\com\mip\monitoramento\api\v1\model\repository\PestOccurenceRepository.class
+br\com\mip\monitoramento\api\v1\model\entity\PestOccurence.class
+br\com\mip\monitoramento\api\v1\model\entity\ProductThreshold.class
+br\com\mip\monitoramento\api\v1\model\entity\Product.class
+br\com\mip\monitoramento\api\v1\model\repository\ProductRepository$1.class
+br\com\mip\monitoramento\api\v1\model\repository\ProductRepository.class
+br\com\mip\monitoramento\api\v1\model\entity\RecommendedProduct.class
+br\com\mip\monitoramento\api\v1\model\repository\PestOccurenceRepository$1.class
+br\com\mip\monitoramento\api\v1\model\entity\Location.class
+br\com\mip\monitoramento\api\v1\model\entity\Pest.class
+br\com\mip\monitoramento\api\v1\model\exception\BusinessException.class
+br\com\mip\monitoramento\api\v1\service\strategy\ProductRecommendationStrategy.class
+br\com\mip\monitoramento\api\v1\model\entity\Region.class
+br\com\mip\monitoramento\api\v1\service\operation\ProductRecommendationFindOperation.class

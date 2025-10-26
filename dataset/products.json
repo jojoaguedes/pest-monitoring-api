@@ -1,0 +1,123 @@
+[
+    {
+        "id": "6a768b99-1fb7-4702-9580-b45cf52cd6a1",
+        "name": "Product 1",
+        "cost_per_dose": 15,
+        "thresholds": [
+            {
+                "pest_id": "63959ed1-8fe2-4d7f-b3ec-962b098683b2",
+                "minimum_occurrence": 2,
+                "dose_per_hectare": 5
+            },
+            {
+                "pest_id": "63959ed1-8fe2-4d7f-b3ec-962b098683b2",
+                "minimum_occurrence": 5,
+                "dose_per_hectare": 10
+            },
+            {
+                "pest_id": "63959ed1-8fe2-4d7f-b3ec-962b098683b2",
+                "minimum_occurrence": 20,
+                "dose_per_hectare": 15
+            },
+            {
+                "pest_id": "b144f578-f0ac-46b8-8e8b-2a461080a53d",
+                "minimum_occurrence": 8,
+                "dose_per_hectare": 3
+            },
+            {
+                "pest_id": "b144f578-f0ac-46b8-8e8b-2a461080a53d",
+                "minimum_occurrence": 20,
+                "dose_per_hectare": 10
+            },
+            {
+                "pest_id": "b144f578-f0ac-46b8-8e8b-2a461080a53d",
+                "minimum_occurrence": 40,
+                "dose_per_hectare": 100
+            }
+        ]
+    },
+    {
+        "id": "ab80fd10-13eb-4ee9-8150-6b2f2c797268",
+        "name": "Product 2",
+        "cost_per_dose": 25,
+        "thresholds": [
+            {
+                "pest_id": "63959ed1-8fe2-4d7f-b3ec-962b098683b2",
+                "minimum_occurrence": 3,
+                "dose_per_hectare": 5
+            },
+            {
+                "pest_id": "63959ed1-8fe2-4d7f-b3ec-962b098683b2",
+                "minimum_occurrence": 5,
+                "dose_per_hectare": 5
+            },
+            {
+                "pest_id": "63959ed1-8fe2-4d7f-b3ec-962b098683b2",
+                "minimum_occurrence": 15,
+                "dose_per_hectare": 15
+            },
+            {
+                "pest_id": "b144f578-f0ac-46b8-8e8b-2a461080a53d",
+                "minimum_occurrence": 10,
+                "dose_per_hectare": 1
+            },
+            {
+                "pest_id": "b144f578-f0ac-46b8-8e8b-2a461080a53d",
+                "minimum_occurrence": 20,
+                "dose_per_hectare": 30
+            },
+            {
+                "pest_id": "b144f578-f0ac-46b8-8e8b-2a461080a53d",
+                "minimum_occurrence": 40,
+                "dose_per_hectare": 50
+            },
+            {
+                "pest_id": "d409d91c-1639-4525-87c8-d646a18092fd",
+                "minimum_occurrence": 6,
+                "dose_per_hectare": 3
+            },
+            {
+                "pest_id": "d409d91c-1639-4525-87c8-d646a18092fd",
+                "minimum_occurrence": 10,
+                "dose_per_hectare": 4
+            },
+            {
+                "pest_id": "d409d91c-1639-4525-87c8-d646a18092fd",
+                "minimum_occurrence": 30,
+                "dose_per_hectare": 6
+            }
+        ]
+    },
+    {
+        "id": "79e6a048-53ae-4016-810b-7be9f7d386b6",
+        "name": "Product 3",
+        "cost_per_dose": 10,
+        "thresholds": [
+            {
+                "pest_id": "b144f578-f0ac-46b8-8e8b-2a461080a53d",
+                "minimum_occurrence": 10,
+                "dose_per_hectare": 5
+            },
+            {
+                "pest_id": "b144f578-f0ac-46b8-8e8b-2a461080a53d",
+                "minimum_occurrence": 20,
+                "dose_per_hectare": 10
+            },
+            {
+                "pest_id": "b144f578-f0ac-46b8-8e8b-2a461080a53d",
+                "minimum_occurrence": 50,
+                "dose_per_hectare": 30
+            },
+            {
+                "pest_id": "d409d91c-1639-4525-87c8-d646a18092fd",
+                "minimum_occurrence": 9,
+                "dose_per_hectare": 7
+            },
+            {
+                "pest_id": "d409d91c-1639-4525-87c8-d646a18092fd",
+                "minimum_occurrence": 20,
+                "dose_per_hectare": 8
+            }
+        ]
+    }
+]
